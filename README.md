@@ -4,7 +4,7 @@
 
 This is when the interaction style is more personal. The language used is more informal and presented in a conversational way rather than just short demands. It gives the effect that you're interactive with a person rather than a computer giving you orders. 
 
-The process of this demonstrates someone typing in a phrase or sentance that the computer comprehends and understands and therfore replies more conversational and friendly. 
+The process of this demonstrates someone typing in a phrase or sentence that the computer comprehends and understands and therefore replies more conversational and friendly. 
 
 ## Examples of Natural Language 
 
@@ -19,3 +19,9 @@ The process of this demonstrates someone typing in a phrase or sentance that the
 
 ### Wantful
 ![wantful_form2](https://cloud.githubusercontent.com/assets/22593770/25628534/74534842-2f5e-11e7-8833-2b8a50fab66a.png)
+
+### How Natural Language could be used for the Web Media site?
+
+Just like the Wantful example, we could do a similar thing that has drop down options for what the consumer is looking for on the course. This could the present the things that they want that match up with what our course can offer. This could also include inputting grades to see if they meet the entry requirements. 
+
+Overall, the whole site can use the pattern to portray an informal theme to our site to ensure it is inviting for those looking at it. 
